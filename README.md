@@ -1,4 +1,4 @@
-# CSC431
+# CSC431 - TEAM #13
 Intro to Software Engineering
 
 Hello, I am Berk Mankaliye and this is the github repository for my collaborative work
